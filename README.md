@@ -21,4 +21,4 @@
 
 1. check if docker is running ( ```service docker status```)
 
-2. docker-compose up -d
+2. ```docker-compose up -d```
