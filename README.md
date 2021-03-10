@@ -1,4 +1,4 @@
->>> For Running this multi-container app in docker:
+> For Running this multi-container app in docker:
 
 1. check if docker is running ( ```service docker status```)
 
