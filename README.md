@@ -15,3 +15,10 @@
 4. cd inside frontend folder
     1. ```sudo docker build -t frontend:v1 .```
     2. ```sudo docker run -p 3000:3000 -v $(pwd):/app -v frontendmodule:/node_modules -it  app-frontend:v1```
+
+
+***OR USE DOCKER-COMPOSE FILE***
+
+1. check if docker is running ( ```service docker status```)
+
+2. docker-compose up -d
